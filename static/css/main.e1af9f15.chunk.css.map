@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,KACE,+BAAiC,CACjC,iBACF,CAEA,MACE,wBACF","file":"main.e1af9f15.chunk.css","sourcesContent":[".App {\n  font-family: \"Roboto\", sans-serif;\n  text-align: center;\n}\n\n:root {\n  background-color: #fceeb5;\n}\n"]}
